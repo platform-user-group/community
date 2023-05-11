@@ -1,0 +1,21 @@
+# 社区组织成员
+
+- Danny
+- Bytebase
+  - 陈天舟 @tianzhou
+- KubeVela
+  - 孙健波 @wonderflow
+- KusionStack
+  - 朵晓东 @ldxdl
+  - 柴树杉 @chai2010
+  - 何子波 @adohe
+- SmartIDE
+  - 徐磊 @ups216
+- 方海涛
+- 经纬创投
+  - Monica
+- 信通院
+  - 马龙飞
+  - 韩思齐
+- 字节跳动
+  - 邓德源
